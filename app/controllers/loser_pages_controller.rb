@@ -1,0 +1,2 @@
+class LoserPagesController < ApplicationController
+end

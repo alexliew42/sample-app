@@ -1,0 +1,2 @@
+module LoserPagesHelper
+end
